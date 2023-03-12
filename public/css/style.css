@@ -1,0 +1,77 @@
+main{
+    background-color: aliceblue;
+    padding: 5px;
+}
+main h1{
+    font-size: 30px;
+}
+.allthread{
+    background-color: ghostwhite;
+    margin: 8px;
+}
+.allthread h2 a{
+    color: blue;
+    display: block;
+}
+.allthread h2 a:hover{
+    color:red;
+}
+
+.postcontent {
+    background-color: ghostwhite;
+}
+
+.postcontent .content {
+    font-weight: bold;
+    white-space: pre-wrap;
+}
+
+.postcontent span {
+    font-weight: bold;
+    color: blue;
+    font-size: 18px;
+}
+.content{
+    font-size: 23px;
+}
+.allthread p{
+    font-size: 20px;
+}
+.allthread h2{
+    font-size: 30px;
+}
+.threadoperation a{
+    color: blue;
+    font-size: 20px;
+    margin: 5px;
+}
+.threadoperation a:hover{
+    color: red;
+}
+.newthreadcontent{
+    font-size: 20px;
+}
+.newthreadsubmit{
+    font-size: 20px; 
+    color: blue;
+}
+.newthreadsubmit:hover{
+    color: red;
+}
+.newpostsubmit{
+    font-size: 20px; 
+    color: blue;
+}
+.newpostsubmit:hover{
+    color: red;
+}
+.threadback{
+    font-size: 20px; 
+    color: blue; 
+}
+.threadback:hover{
+    color: red; 
+}
+.checkmessage{
+    font-size: 20px;
+}
